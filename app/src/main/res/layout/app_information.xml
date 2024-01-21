@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/darkwallpaper"
+    tools:context=".LoginActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#30ffffff"
+
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="347dp"
+                android:layout_height="30dp"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:text="Application Information"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textSize="20dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dive into the future of audio exploration with the Audio Classifier app, a groundbreaking application powered by state-of-the-art machine learning technology. Unleash the potential of your auditory senses as our app, seamlessly integrating the YAMNet TensorFlow model, redefines how you interact with sound."
+                android:textColor="@color/white"
+                android:textSize="16dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="5dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="50dp"
+                android:text="Key Features:"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:textSize="18dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="1. YAMNet-Powered Classification: "
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dive into the future of audio exploration with the Audio Classifier app, a groundbreaking application powered by state-of-the-art machine learning technology. Unleash the potential of your auditory senses as our app, seamlessly integrating the YAMNet TensorFlow model, redefines how you interact with sound."
+                android:textColor="@color/white"
+                android:textSize="14dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="15dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="50dp"
+                android:text="2. Intuitive User Interface"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Navigate through our app's user-friendly interface to u record snippets directly for instant and accurate machine learning-based classification."
+                android:textColor="@color/white"
+                android:textSize="14dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="15dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="50dp"
+                android:text="3. Firebase Authentication"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Elevate your security with Firebase Authentication, ensuring that your experience is not only innovative but also protected. Safeguard your authentication process and user data with the latest in Firebase technology."
+                android:textColor="@color/white"
+                android:textSize="14dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="15dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="50dp"
+                android:text="Privacy and Security"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:textSize="18dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Your privacy is paramount. Rest assured that our app adheres to stringent security measures, with Firebase Authentication providing an additional layer of protection for your personal information."
+                android:textColor="@color/white"
+                android:textSize="14dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="15dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Embark on a journey of audio discovery like never before. Download Audio Classifier now and witness the magic of machine learning unraveling the mysteries of sound!"
+                android:textColor="@color/white"
+                android:textSize="14dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="6dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="15dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+
+</RelativeLayout>

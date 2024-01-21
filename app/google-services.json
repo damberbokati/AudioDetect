@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "65556485338",
+    "firebase_url": "https://sounddetector-301b2-default-rtdb.firebaseio.com",
+    "project_id": "sounddetector-301b2",
+    "storage_bucket": "sounddetector-301b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65556485338:android:b9116a6978575d8ccd41e3",
+        "android_client_info": {
+          "package_name": "com.example.audioclassification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJEI2qRcslZSmQ-DC1tbFDaisx1Sf-cQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65556485338:android:a686c20a995887bccd41e3",
+        "android_client_info": {
+          "package_name": "com.example.findseed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJEI2qRcslZSmQ-DC1tbFDaisx1Sf-cQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65556485338:android:31255c334eb017b7cd41e3",
+        "android_client_info": {
+          "package_name": "com.example.sounddetector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJEI2qRcslZSmQ-DC1tbFDaisx1Sf-cQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
