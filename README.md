@@ -1,11 +1,6 @@
 
 # Audio Classification Application
 
-(Your Audio, Your Rules: Classify with Clarity.)
-
-Developers: Sandip Sitaula, Damber Bokati, Amarendra Kumar Sharma
-
-
 # About:
 
 Discover a fresh way to engage with the world of sounds through our Audio Classification Application. Setting up an account is a breeze; with a simple tap, record any sound around you. Our app works its magic behind the scenes, analyzing recordings and delivering instant results about the origin of each sound. It's your easy-to-use audio guide, making sound identification a seamless experience. 
