@@ -1,5 +1,5 @@
 
-# Audio Classification Application
+# AudioDetect
 
 # About:
 
